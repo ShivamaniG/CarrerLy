@@ -10,7 +10,7 @@ CareerLy is a platform for career recommendations, leveraging Django for the web
 
 ## UI Screenshots
 
-For a visual representation of the user interface, download and view the [UI Screenshots PDF](UI_SCEENSHOTS.pdf).
+For a visual representation of the user interface, download and view the [UI Screenshots PDF](CarrerLy/INTELLIGENT-CAREER-GUIDANCE-SYSTEM-main/UI_SCEENSHOTS.pdf).
 
  ### Getting Started
 
