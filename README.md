@@ -8,6 +8,10 @@ CareerLy is a platform for career recommendations, leveraging Django for the web
 - **Flask**: Handles API endpoints for serving career recommendation data.
 - **scikit-learn**: Used for implementing machine learning models that generate career recommendations.
 
+## UI Screenshots
+
+For a visual representation of the user interface, download and view the [UI Screenshots PDF](UI_SCEENSHOTS.pdf).
+
  ### Getting Started
 
 ```bash
